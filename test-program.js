@@ -1,4 +1,4 @@
-et input = [
+let input = [
     '0',
     '10,20,30,40,50',
     '2 forward 1',
